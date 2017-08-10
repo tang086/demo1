@@ -1,5 +1,5 @@
 <?php
-
+echo time();
 phpinfo();
 
 
